@@ -1,0 +1,12 @@
+Problem statement
+int main()
+{
+        int d = 65;
+        int i = d;
+        char ch = i;
+        cout << ch << endl;
+}
+
+Ans: _______________________
+
+answer: A
