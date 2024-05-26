@@ -1,0 +1,11 @@
+Problem statement
+What is the correct syntax of declaring and defining a reference?
+
+Options:
+
+int a = 10; int &b; b = a;
+int a = 10; int &b = a;
+int a = 10; int b = &a;
+int a = 10; int &b = &a;
+
+answer: int a = 10; int &b = a;
