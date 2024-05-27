@@ -1,0 +1,19 @@
+Problem statement
+How will you free the memory allocated by following program -
+
+#include <iostream>
+using namespace std;    
+
+int main() {
+    int *a = new int;
+}
+
+
+Options:
+free a;
+delete *a;
+delete a;
+new a;
+
+
+answer: delete a;
