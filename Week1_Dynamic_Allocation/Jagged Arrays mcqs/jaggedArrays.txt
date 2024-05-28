@@ -1,0 +1,8 @@
+Problem statement
+Can we create Jagged Arrays in C++ ?
+
+Options:
+Yes
+No
+
+answer: yes
