@@ -1,5 +1,6 @@
 /*
 MOVE ZEROES TO END
+level: moderate
 
 Problem statement
 Given an unsorted array of integers, you have to move the array elements in a way such that 
