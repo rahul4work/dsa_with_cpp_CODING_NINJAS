@@ -1,0 +1,48 @@
+Problem statement
+Given the following CPP Program. Select the CORRECT Syntax 
+of deleting this 2D array? Check all that apply.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int **twoDArray = new int*[10];
+    for(int i = 0; i < 10; i++)
+        *(twoDArray + i) = new int[10];
+}
+
+
+Options are -
+
+A. 
+delete twoDArray [][];
+
+B.
+for(int i = 0; i < 10; i++)
+    delete twoDArray[i];
+    delete twoDArray[];
+
+C.
+for(int i = 0; i < 10; i++)
+    delete [] twoDArray[i];
+    delete[] twoDArray;
+
+D.
+for(int i = 0; i < 10; i++)
+    delete twoDArray[i][];
+    delete[] twoDArray;
+
+
+
+Options:
+ A
+ B
+ C
+ D
+
+
+answer: C
+
+
+  
