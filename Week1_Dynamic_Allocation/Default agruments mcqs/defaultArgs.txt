@@ -1,0 +1,12 @@
+Problem statement
+Which of the following statement is correct?
+
+
+Options: Pick one correct answer from below
+• Only one parameter of a function can be a default parameter.
+• Minimum one parameter of a function must be a default parameter.
+• All the parameters of a function can be default parameters.
+• No parameter of a function can be default.
+
+
+answer: All the parameters of a function can be default parameters.
