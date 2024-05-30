@@ -1,0 +1,21 @@
+Problem statement
+What is the output of the following program ?
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    int  const  p = 5;
+    cout << ++p;
+    return 0;
+}
+
+
+Options: Pick one correct answer from below
+• 5
+• 6
+• Error
+• Garbage
+
+
+answer: Error
