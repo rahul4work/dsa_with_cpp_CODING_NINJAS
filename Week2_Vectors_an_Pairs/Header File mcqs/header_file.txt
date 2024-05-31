@@ -1,0 +1,12 @@
+Problem statement
+Which of the following header file is required to declare the vectors?
+
+
+Options: Pick one correct answer from below
+• <vectors>
+• ‹vector>
+• ‹vector.h>
+• <iostream>
+
+
+answer: ‹vector>
