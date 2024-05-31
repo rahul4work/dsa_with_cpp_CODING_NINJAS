@@ -1,0 +1,13 @@
+Problem statement
+Which of the following options correctly represents the syntax of declaring
+a vector of integers with 5 elements in C++?
+
+
+Options: Pick one correct answer from below
+• vector<int> v = (5);
+• vector<int> v(5);
+• vector<int,5> v
+• vector<int> v[5];
+
+
+answer: vector<int> v(5);
