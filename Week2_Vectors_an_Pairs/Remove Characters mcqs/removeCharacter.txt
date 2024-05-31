@@ -1,0 +1,10 @@
+Problem statement
+Which of the following element is used to remove an element from a vector?
+
+Options: One or more answers may be correct
+• pop_back()
+• throw()
+• withdraw()
+• erase()
+
+answer: pop_back() and erase() both
