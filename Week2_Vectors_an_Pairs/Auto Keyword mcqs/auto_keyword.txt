@@ -1,0 +1,16 @@
+Problem statement
+What is the purpose of the auto keyword in C++?
+
+
+Options: One or more answers may be correct
+• It automatically initializes variables with default values.
+• It is a type of datatype
+• It enables type inference, allowing the compiler to deduce the type of a variable.
+• It is mainly used as an iterator
+
+
+answer: 
+It enables type inference, allowing the compiler to deduce the type of a variable. 
+and
+It is mainly used as an iterator
+both
