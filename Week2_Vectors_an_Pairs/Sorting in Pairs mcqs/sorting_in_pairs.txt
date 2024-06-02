@@ -1,0 +1,12 @@
+Problem statement
+Which of the following options accurately describes the default behavior of the sort function when applied to vectors of pairs?
+
+
+Options: Pick one correct answer from below
+• Internally sorts each individual pair within the vector, while preserving the original order of pairs.
+• Sorts the vector of pairs based on the second elements
+• Sorts the vector of pairs based on the first elements.
+• Sorting pairs within the vector is not supported and will result in an error.
+
+
+answer: Sorts the vector of pairs based on the first elements.
