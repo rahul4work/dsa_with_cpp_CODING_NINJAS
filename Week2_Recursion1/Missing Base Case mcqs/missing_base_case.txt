@@ -1,0 +1,26 @@
+Problem statement
+What will be the output of the following code ?
+
+#include <iostream>
+using namespace std;
+
+int func(int num){
+    return func(num- 1);
+}
+
+int main() {
+    int num = 5;
+    int ans = func(num - 1);
+    cout << ans;
+}
+
+
+Options: Pick one correct answer from below
+• Compilation Error
+• Runtime Error
+• 0 5
+• None of these
+
+
+answer: Runtime Error
+
