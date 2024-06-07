@@ -90,3 +90,32 @@ int findPeakElement(vector<int> &arr) {
 
 }
 
+
+int get(const vector<int> &v, int i) {
+    if (i < 0)
+        return -100;
+    if (i >= v.size())
+        return -100;
+    return v[i];
+}
+
+int main() {
+    int n;
+    cin >> n;
+
+    vector<int> v(n);
+    for (int i = 0; i < n; ++i) {
+        cin >> v[i];
+    }
+
+    int ans = findPeakElement(v);
+
+    if (ans >= 0 && ans < v.size() && get(v, ans - 1) < get(v, ans) && get(v, ans) > get(v, ans + 1))
+        cout << "True\n";
+    else
+        cout << "False\n";
+
+    return 0;
+}
+
+
