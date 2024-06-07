@@ -81,3 +81,32 @@ vector<int> kthSmallLarge(vector<int> &arr, int n, int k)
 
 }
 
+int main() {
+    int t;
+    cin >> t;
+
+    vector<vector<int>> arrs(t);
+    vector<int> ns(t), ks(t);
+
+    for (int i = 0; i < t; ++i) {
+        int n, k;
+        cin >> n >> k;
+
+        vector<int> arr(n);
+        for (int j = 0; j < n; ++j) {
+            cin >> arr[j];
+        }
+
+        ns[i] = n;
+        ks[i] = k;
+        arrs[i] = arr;
+    }
+
+    for (int i = 0; i < t; ++i) {
+        vector<int> result = kthSmallLarge(arrs[i], ns[i], ks[i]);
+        cout << result[0] << ' ' << result[1] << '\n';
+    }
+
+    return 0;
+}
+
