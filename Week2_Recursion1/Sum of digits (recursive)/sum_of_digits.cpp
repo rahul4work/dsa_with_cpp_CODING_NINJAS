@@ -30,7 +30,6 @@ Sample Output 2 :
 using namespace std;
 
 int sumOfDigits(int n) {
-    // Write your code here
 
     if (n < 10) {
         return n;
@@ -47,3 +46,4 @@ int main() {
    cin >> n;
    cout << sumOfDigits(n) << endl;
 }
+
