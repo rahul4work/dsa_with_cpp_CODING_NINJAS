@@ -1,5 +1,5 @@
 Problem statement
-Inline functions are useful when ______
+Inline functions are useful when _______________ .
 
 Options:
 • Function is large with many nested loops
