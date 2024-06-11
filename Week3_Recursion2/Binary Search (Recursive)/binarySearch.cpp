@@ -34,7 +34,8 @@ Hint : Use helper function to solve this question.
 #include <iostream>
 using namespace std;
 
-int binarySearchHelper(int input[], int start, int end, int element) {
+int binarySearchHelper(int input[], int start, int end, int element) 
+{
   if (start > end) 
     return -1;
 
