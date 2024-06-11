@@ -1,5 +1,6 @@
 /*
 MERGE SORT
+level: moderate
 
 Problem statement
 You are given the starting 'l' and the ending 'r' positions of the array 'ARR'.
