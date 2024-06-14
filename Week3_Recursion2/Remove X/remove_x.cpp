@@ -1,5 +1,6 @@
 /*
 REMOVE X
+level: moderate
 
 Problem statement
 Given a string, compute recursively a new string where all 'x' chars have been removed.
