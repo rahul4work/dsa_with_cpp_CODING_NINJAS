@@ -1,5 +1,6 @@
 /*
 PAIR STAR
+level: moderate
 
 Problem statement
 Given a string S, compute recursively a new string where identical chars 
