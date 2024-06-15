@@ -1,5 +1,6 @@
-*/
+/*
 ALL INDEXES OF X
+level: moderate
 
 Problem statement
 Given an array of length N and an integer x, you need to find all the 
