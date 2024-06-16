@@ -1,0 +1,13 @@
+Problem statement
+The worst case time complexity of Linear search is :
+
+
+Options: Pick one correct answer from below
+• O(n)
+• 0(n^2)
+• 0(nlogn)
+• 0(logn)
+
+
+answer: O(n)
+
