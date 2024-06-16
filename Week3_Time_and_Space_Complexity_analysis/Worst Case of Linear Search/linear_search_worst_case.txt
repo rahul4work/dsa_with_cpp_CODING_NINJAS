@@ -1,0 +1,13 @@
+Problem statement
+Worst case time complexity of insertion sort is ?
+
+
+Options: One or more answers may be correct
+• 0(N)
+• 0(NA2)
+• 0(NLogN)
+• O(LogN)
+
+
+answer: 0(NA2)
+
