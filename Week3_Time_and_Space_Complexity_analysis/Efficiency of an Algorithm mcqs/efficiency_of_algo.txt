@@ -1,0 +1,13 @@
+Problem statement
+Two main measures for the efficiency of an algorithm are -
+
+Options: One or more answers may be correct
+• Processor and memory
+• Complexity and capacity
+• Time and space
+• Data and space
+
+
+answer:-  Time and space
+
+
