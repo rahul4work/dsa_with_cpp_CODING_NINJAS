@@ -1,0 +1,12 @@
+Problem statement
+In theoretical analysis of an algorithm, the time complexity is measured by
+
+
+Options: One or more answers may be correct
+• Counting microseconds
+• Counting the number of statements in code
+• Counting the number of unit operations
+• Counting the kilobytes of algorithm
+
+
+answer:-  Counting the number of unit operations
