@@ -1,0 +1,13 @@
+Problem statement
+For merging two sorted arrays of size m and n into a sorted array of size m+n, we require operations -
+
+
+Options: Pick one correct answer from below
+• 0(m * n)
+• 0(m + n)
+• 0(m) if m >= n
+• 0(n) if n > m
+
+
+answer:-
+0(m + n)
