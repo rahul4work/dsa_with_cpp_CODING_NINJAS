@@ -1,0 +1,12 @@
+Problem statement
+What is the recurrence relation for merge sort :
+
+Options: Pick one correct answer from below
+• T(n) = 2T (n/2)
+• T(n) = 2T (n/2) + k
+• T(n) = 2T(n/2) + 0(n)
+• T(n) = 2T (n/2) + 0(log n)
+
+answer:-
+T(n) = 2T(n/2) + 0(n)
+
