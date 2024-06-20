@@ -1,0 +1,13 @@
+Problem statement
+The space complexity for merge sort is :
+
+
+Options: Pick one correct answer from below
+• 0(n)
+• 0(n^2)
+• 0(nlogn)
+• 0(log n)
+
+answer:- 
+0(n)
+
