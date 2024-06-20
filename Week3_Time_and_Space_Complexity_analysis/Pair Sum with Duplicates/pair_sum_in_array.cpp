@@ -1,5 +1,6 @@
 /*
 PAIR SUM IN ARRAY
+level: moderate
 
 Problem statement
 You have been given an integer array/list(ARR) and a number 'num'. 
