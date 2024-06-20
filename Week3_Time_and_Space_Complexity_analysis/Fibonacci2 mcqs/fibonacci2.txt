@@ -1,0 +1,14 @@
+Problem statement
+The space complexity for finding nth fibonacci number using recursion is :
+
+Options: Pick one correct answer from below
+• 0(n)
+• 0(2An)
+• 0(log n)
+• 0(n^2)
+• 0(nlogn)
+
+
+answer:-
+0(n)
+
