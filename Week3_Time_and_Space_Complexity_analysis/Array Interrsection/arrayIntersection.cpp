@@ -1,5 +1,6 @@
 /*
 ARRAY INTERSECTION
+level: moderate
 
 Problem statement
 You have been given two integer arrays/list(ARR1 and ARR2) of size N and M, respectively.
