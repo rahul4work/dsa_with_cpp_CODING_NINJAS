@@ -1,5 +1,6 @@
 /*
 FIND THE UNIQUE ELEMENT
+level: moderate
 
 Problem statement
 You have been given an integer array/list(ARR) of size N. Where N is equal to [2M + 1].
