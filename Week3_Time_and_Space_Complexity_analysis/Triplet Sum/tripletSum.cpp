@@ -1,5 +1,6 @@
 /*
 TRIPLET SUM
+level: moderate
 
 Problem statement
 You have been given a random integer array/list(ARR) and a number X. Find and return the triplet(s) in the 
