@@ -1,5 +1,6 @@
 /*
 SORT 0 1 2
+level: moderate
 
 Problem statement
 You are given an integer array/list(ARR) of size N. It contains only 0s, 1s and 2s. Write a solution to 
