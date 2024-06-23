@@ -1,5 +1,6 @@
 /*
 MAXIMUM PROFIT IN APP
+level: moderate
 
 Problem statement
 You have made a smartphone app and want to set its subscription price such that the profit earned is maximised. 
