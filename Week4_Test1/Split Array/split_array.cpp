@@ -1,5 +1,6 @@
 /*
 SPLIT ARRAY
+level: moderate
 
 Problem statement
 Given an integer array A of size N, check if the input array can be divided in two groups G1 and G2 with following properties-
