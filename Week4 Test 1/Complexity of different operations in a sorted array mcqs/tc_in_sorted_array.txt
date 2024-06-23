@@ -1,0 +1,13 @@
+Problem statement
+Which of the following operations is not O(1) for an array of sorted data. You may assume that array elements are distinct.
+
+
+Options: One or more answers may be correct
+• Find the ith largest element
+• Delete an element
+• Find the ith smallest element
+• All of the above
+
+
+answer:-
+Delete an element
