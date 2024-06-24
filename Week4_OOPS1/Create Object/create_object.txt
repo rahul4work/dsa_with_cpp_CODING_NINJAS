@@ -1,0 +1,15 @@
+/*
+CREATE OBJECT
+
+Problem statement
+Which of these statements is used to allocate memory for an object dynamically ?
+
+
+Options: Pick one correct answer from below
+• malloc
+• alloc
+• new
+• give
+
+answer:-
+new
