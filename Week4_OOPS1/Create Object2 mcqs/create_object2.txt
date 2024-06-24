@@ -1,0 +1,14 @@
+Problem statement
+Which of the following is/are a valid statement(s) to create an object of class Bird in C++ ?
+
+
+Options: One or more answers may be correct
+• Bird b = new Bird;
+• Bird *b = new Bird;
+• Bird b;
+• new Bird b;
+
+
+answer:-
+Bird *b = new Bird;  and
+Bird b;   both
