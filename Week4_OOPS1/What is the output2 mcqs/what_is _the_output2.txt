@@ -1,25 +1,27 @@
 Problem statement
-What is the output -
+What will be the output of the following program ?
 
 #include <iostream>
 using namespace std;
 
-class Student {
-    int rollNumber;
+class Shape{
+    public : 
+    int height;
+    int width;
 };
 
 int main() {
-    Student s;
-    cout << s.rollNumber;
+    Shape *s = new Shape();
+    s -> height = 1;
+    cout << s -> height;
 }
 
-
 Options: Pick one correct answer from below
-• GarbageValue
+• Error
 • 0
-• Compilation Error
-• None
+0 1
+• GarbageValue
 
 answer:-
-Compilation Error
+1
 
