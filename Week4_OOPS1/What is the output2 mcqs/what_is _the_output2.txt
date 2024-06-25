@@ -1,0 +1,25 @@
+Problem statement
+What is the output -
+
+#include <iostream>
+using namespace std;
+
+class Student {
+    int rollNumber;
+};
+
+int main() {
+    Student s;
+    cout << s.rollNumber;
+}
+
+
+Options: Pick one correct answer from below
+• GarbageValue
+• 0
+• Compilation Error
+• None
+
+answer:-
+Compilation Error
+
