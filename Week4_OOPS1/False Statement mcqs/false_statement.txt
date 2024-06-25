@@ -1,0 +1,14 @@
+Problem statement
+Which statement is not true in C++ language ?
+
+
+Options: Pick one correct answer from below
+• A public member of a class can be accessed outside the class.
+• A private member of a class cannot be accessed by the functions of the same class.
+• A private member of a class cannot be accessed outside the same class.
+• None of the above
+
+
+answer:-
+A private member of a class cannot be accessed by the functions of the same class.
+
