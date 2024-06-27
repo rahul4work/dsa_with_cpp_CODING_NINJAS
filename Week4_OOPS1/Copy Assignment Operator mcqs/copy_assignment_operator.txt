@@ -1,0 +1,26 @@
+Problem statement
+Consider following piece of code:
+
+class Pair{
+  public :
+  int first;
+  int second;
+};
+
+int main(){
+
+  Pair *p1 = new Pair;
+  Pair p2;
+}
+Which of the following statement is feasible ?
+
+
+Options: Pick one correct answer from below
+• 1. p2 = p1;
+• 2. p2 = *p1;
+• 3. Both 1 and 2 are correct.
+• 4. None of the above
+
+
+answer:-
+2. p2 = *p1;
