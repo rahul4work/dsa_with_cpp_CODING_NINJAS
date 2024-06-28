@@ -1,0 +1,31 @@
+Problem statement
+Consider following piece of code:
+
+#include<iostream>
+using namespace std;
+
+class Pair{
+      public :
+      int first;
+      int second;
+};
+
+int main(){
+
+      Pair p1;
+      p1.first = 10;
+      p1.second = 20;
+      Pair p2;
+      p2 = p1;
+      cout << p2.first << " " << p2.second << endl;
+}
+What will be the output ?
+
+
+Options: Pick one correct answer from below
+• 10 20
+• Error
+• Garbage_value Garbage_value
+
+answer:-
+10 20
