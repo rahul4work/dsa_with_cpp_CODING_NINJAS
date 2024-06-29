@@ -1,0 +1,28 @@
+Problem statement
+class Student {
+    public :
+
+    const int rollNumber;
+    int age;
+
+    Student(int r, int a) : rollNumber(r), age(a) {
+    }
+};
+
+
+int main() {
+    Student s1(100, 23);
+    cout << s1.rollNumber << " " << s1.age;
+}
+
+
+
+Options: Pick one correct answer from below
+• Error
+• 100 Garbage
+• 100 23
+• Garbage Garbage
+
+
+answer:-
+100 23
