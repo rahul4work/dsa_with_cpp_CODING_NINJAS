@@ -1,0 +1,42 @@
+Problem statement
+#include <iostream>
+using namespace std;
+
+class Student{
+    public :
+        char *name;
+        int rollNo;
+
+        void print(){
+            cout << name << " "  <<  rollNo << " ";
+        }
+};
+
+int main() {
+    char name[] = "Misha";
+    Student s1;
+    s1.name = name;
+    s1.rollNo = 101;
+
+    name[0] = 'N';
+    Student s2;
+    s2.name = name;
+    s2.rollNo = 102;
+
+    s1.print();
+    s2.print();
+}
+
+
+Options: Pick one correct answer from below
+• Misha 101 Nisha 102
+• Nisha 101 Nisha 102
+• Misha 101 Misha 102
+• Nisha 101 Misha 102
+
+
+answer:-
+Nisha 101 Nisha 102
+
+
+
