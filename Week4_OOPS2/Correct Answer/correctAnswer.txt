@@ -1,0 +1,12 @@
+Problem statement
+Which operator cannot be overloaded as a member function of a class in C++?
+
+
+Options: One or more answers may be correct
+•=
+• all of them can be overloaded
+• +
+
+answer:-
+all of them can be overloaded
+
