@@ -1,0 +1,13 @@
+Problem statement
+If a member function does not alter any data in the class, 
+that may be declared as ....................
+
+Options: Pick one correct answer from below
+• constant member function
+• private member function
+• static member function
+• None
+
+
+answer:-
+constant member function
