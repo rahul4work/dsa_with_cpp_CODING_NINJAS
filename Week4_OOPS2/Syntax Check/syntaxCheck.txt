@@ -1,0 +1,13 @@
+Problem statement
+What is the syntax to overload the (+) operator as a member function of the class?
+
+
+Options: One or more answers may be correct
+• int operator+(const MyClass& other) ()
+• void operator+(const MyClass& other) ()
+• MyClass operator+(const MyClass& other) ()
+• operator+(const MyClass& other) (}
+
+
+answer:-
+MyClass operator+(const MyClass& other) ()
