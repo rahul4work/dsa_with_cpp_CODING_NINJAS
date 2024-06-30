@@ -1,0 +1,13 @@
+Problem statement
+Which of the following statements about operator overloading in C++ is true?
+
+
+Options: One or more answers may be correct
+• All operators can be overloaded in C++.
+• Operator overloading requires modifying the compiler.
+• Overloaded operators must take at least two operands.
+• The number of operands cannot be changed for overloaded operators.
+
+
+answer:-
+The number of operands cannot be changed for overloaded operators.
