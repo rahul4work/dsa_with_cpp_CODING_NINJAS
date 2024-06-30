@@ -16,3 +16,12 @@ int main() {
     cout << s.getRollNumber() << endl;
 }
 
+
+Options: Pick one correct answer from below
+• 101
+• 0
+• Compilation Error
+• Error
+
+answer:-
+Compilation Error
