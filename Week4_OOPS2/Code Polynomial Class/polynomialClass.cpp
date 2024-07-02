@@ -1,5 +1,6 @@
 /*
 CODE : POLYNOMIAL CLASS
+level: moderate
   
 Problem statement
 Implement a polynomial class, with the following properties and functions.
