@@ -1,0 +1,14 @@
+Problem statement
+Which scenario is best suited for linked lists?
+
+
+Options: Pick one correct answer from below
+• Storing relatively permanent collections of data.
+• Managing data structures with constantly changing sizes.
+• Random access of elements.
+• None of these
+
+
+answer:-
+Managing data structures with constantly changing sizes.
+
