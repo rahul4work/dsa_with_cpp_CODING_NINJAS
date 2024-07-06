@@ -1,0 +1,13 @@
+Problem statement
+In doubly linked lists, traversal can be done in ?
+
+
+Options: Pick one correct answer from below
+• Only forward direction
+• Only reverse direction
+• Both directions
+• None of the above
+
+answer:-
+Both directions
+
