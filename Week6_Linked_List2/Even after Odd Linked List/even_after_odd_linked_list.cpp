@@ -1,5 +1,6 @@
 /*
 EVEN AFTER ODD LINKED LIST
+level: moderate
 
 Problem statement
 For a given singly linked list of integers, arrange the nodes such that all the even
