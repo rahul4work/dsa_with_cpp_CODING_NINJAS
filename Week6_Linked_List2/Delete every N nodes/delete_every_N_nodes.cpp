@@ -1,5 +1,6 @@
 /*
 DELETE EVERY N NODES
+level: moderate
 
 Problem statement
 You have been given a singly linked list of integers along with two integers, 'M,' and 'N.' Traverse
