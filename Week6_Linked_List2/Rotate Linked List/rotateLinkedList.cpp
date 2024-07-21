@@ -1,5 +1,6 @@
 /*
 ROTATE LINKED LIST
+level: moderate
 
 Problem statement
 You are given a linked list having ‘n’ nodes and an integer ‘k’.
