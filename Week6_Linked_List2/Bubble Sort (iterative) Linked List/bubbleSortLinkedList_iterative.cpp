@@ -1,5 +1,6 @@
 /*
 BUBBLE SORT (ITERATIVE) LINKED LIST
+level: moderate
 
 Problem statement
 Given a singly linked list of integers, sort it using 'Bubble Sort.'
