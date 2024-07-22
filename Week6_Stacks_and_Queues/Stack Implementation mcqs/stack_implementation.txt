@@ -1,0 +1,12 @@
+Problem statement
+Which of the following operation take worst case i.e. linear time (O(n)) in the array implementation of stack?
+
+
+Options: Pick one correct answer from below
+• Push
+• Pop
+• IsEmpty
+• None
+
+answer:
+None
