@@ -1,0 +1,11 @@
+Problem statement
+Which data structure is used for implementing recursion?
+
+Options: Pick one correct answer from below
+• Queue
+• Stack
+• Array
+• List
+
+naswer:
+Stack
