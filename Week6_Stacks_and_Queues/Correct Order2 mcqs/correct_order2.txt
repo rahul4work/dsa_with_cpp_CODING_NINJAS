@@ -1,0 +1,11 @@
+Problem statement
+If the elements “p”, “q”, “r” and “s” are placed in a queue and are deleted one at a time, in what order will they be removed?
+
+Options: Pick one correct answer from below
+• srqp
+• pars
+• srpq
+• qrsp
+
+answer:
+pars
