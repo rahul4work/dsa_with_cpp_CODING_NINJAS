@@ -1,5 +1,6 @@
 /*
 CHECK IF THE BRACKETS ARE BALANCED
+level : moderate
 
 Problem statement
 For a given a string expression containing only round brackets or parentheses, check if they are balanced or not. 
