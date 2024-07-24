@@ -1,0 +1,11 @@
+Problem statement
+A queue is a ?
+
+Options: Pick one correct answer from below
+• FIFO (First In First Out) list
+• LIFO (Last In First Out) list
+• Ordered array
+• Linear tree
+
+answer:
+FIFO (First In First Out) list
