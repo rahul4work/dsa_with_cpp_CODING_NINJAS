@@ -1,0 +1,12 @@
+Problem statement
+In linked list implementation of queue, if only front pointer is maintained, which of the following operation take worst case time (i.e. O(n) )?
+
+
+Options: Pick one correct answer from below
+• Insertion from rear
+• Deletion from front
+• Both
+• None
+
+answer:
+Insertion from rear
