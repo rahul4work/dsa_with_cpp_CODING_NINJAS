@@ -1,5 +1,6 @@
 /*
 CHECK REDUNDANT BRACKETS
+level : moderate
 
 Problem statement
 For a given expression in the form of a string, find if there exist any redundant brackets or not. It is given that 
