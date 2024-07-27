@@ -1,5 +1,6 @@
 /*
 STOCK SPAN
+level : moderate
 
 Problem statement
 Amit has been working with an organization called 'Money Traders' for the past few years. The organization
