@@ -1,5 +1,6 @@
 /*
 REVERSE A STACK
+level : moderate
 
 Problem statement
 You have been given two stacks that can store integers as the data. Out of the two given stacks,
