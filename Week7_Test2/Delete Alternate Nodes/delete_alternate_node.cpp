@@ -1,6 +1,5 @@
 /*
 DELETE ALTERNATE NODE
-level: moderate 
 
 Problem statement
 Given a Singly Linked List of integers, delete all the alternate nodes in the list.
