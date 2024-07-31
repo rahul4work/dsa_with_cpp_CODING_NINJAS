@@ -1,5 +1,6 @@
 /*
 MAX DATA NODE
+level : moderate
 
 Problem statement
 Given a generic tree, find and return the node with maximum data. You need to return the node which is having maximum data.
