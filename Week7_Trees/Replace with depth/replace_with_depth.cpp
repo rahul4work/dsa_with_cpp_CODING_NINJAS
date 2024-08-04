@@ -1,5 +1,6 @@
 /*
 REPLACE WITH DEPTH
+level : moderate
 
 Problem statement
 You are given a generic tree. You have to replace each node with its depth value.
