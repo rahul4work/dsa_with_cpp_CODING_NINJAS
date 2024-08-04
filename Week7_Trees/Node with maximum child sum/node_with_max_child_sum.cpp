@@ -1,5 +1,6 @@
 /*
 NODE WITH MAXIMUM CHILD SUM
+level : moderate
 
 Problem statement
 Given a generic tree, find and return the node for which sum of its data and data of all its child
