@@ -1,5 +1,6 @@
 /*
 STRUCTURALLY IDENTICAL
+level : moderate
 
 Problem statement
 Given two generic trees, return true if they are structurally identical. Otherwise return false.
