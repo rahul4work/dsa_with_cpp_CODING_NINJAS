@@ -1,5 +1,6 @@
 /*
 SECOND LARGEST ELEMENT IN TREE
+level : moderate
 
 Problem statement
 Given a generic tree, find and return the node with second largest value in given tree.
