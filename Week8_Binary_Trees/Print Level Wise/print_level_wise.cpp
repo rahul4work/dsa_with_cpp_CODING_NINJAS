@@ -1,5 +1,6 @@
 /*
 PRINT LEVEL WISE
+level : moderate
 
 Problem statement
 For a given a Binary Tree of type integer, print the complete information of every node,
