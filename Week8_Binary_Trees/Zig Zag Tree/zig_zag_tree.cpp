@@ -1,5 +1,6 @@
 /*
 ZIG ZAG TREE
+level : hard
 
 Problem statement
 Given a binary tree, print the zig zag order. In zigzag order, level 1 is printed from left to right,
