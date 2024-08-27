@@ -1,0 +1,11 @@
+Problem statement
+In a Binary Search Tree (BST), which property is true?
+
+Options: Pick one correct answer from below
+• The left child of a node is greater than the node.
+• The right child of a node is less than the node.
+• The left child of a node is less than the node, and the right child is greater than the node.
+• The left child of a node is greater than the node, and the right child is less than the node.
+
+ans:
+The left child of a node is less than the node, and the right child is greater than the node.
