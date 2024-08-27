@@ -1,0 +1,13 @@
+Problem statement
+What is a Binary Search Tree (BST)?
+
+
+Options: Pick one correct answer from below
+• A data structure that stores elements in a random order.
+• A data structure that stores elements in a sorted order.
+• A data structure that uses an Queues for efficient access.
+• A data structure that uses a stack for element storage.
+
+
+ans: 
+A data structure that stores elements in a sorted order.
