@@ -1,0 +1,13 @@
+
+Problem statement
+When inserting elements with the same value into a Binary Search Tree (BST) , which of the following statements is true?
+
+Options: Pick one correct answer from below
+• Elements with the same value are not allowed in a BST.
+• Elements with the same value are inserted as the left child of the existing node with the same value.
+• Elements with the same value are inserted as the right child of the existing node with the same value.
+• Elements with the same value are randomly placed within the tree.
+• Both B and C
+
+
+ans : Both B and C
