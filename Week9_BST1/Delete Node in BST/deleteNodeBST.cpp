@@ -1,5 +1,6 @@
 /*
 DELETE NODE IN BST
+level : moderate
 
 Problem statement
 You have been given a Binary Search Tree of integers with ‘N’ nodes. You are also given data of 
