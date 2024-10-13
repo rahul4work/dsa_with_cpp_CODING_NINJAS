@@ -1,5 +1,6 @@
 /*
 FIND PATH IN BST
+level: moderate
 
 Problem statement
 Given a BST and an integer k. Find and return the path from the node with data k and root 
