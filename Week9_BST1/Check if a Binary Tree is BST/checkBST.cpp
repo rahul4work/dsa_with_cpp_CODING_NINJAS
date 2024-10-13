@@ -1,5 +1,6 @@
 /*
 Check BST
+level: moderate
 
 Problem statement
 Given a binary tree with N number of nodes, check if that input tree is BST (Binary Search Tree). If yes, return true, return false otherwise.
