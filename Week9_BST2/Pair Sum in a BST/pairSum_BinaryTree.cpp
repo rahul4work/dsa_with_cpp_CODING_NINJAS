@@ -1,5 +1,6 @@
 /*
 PAIR SUM IN BINARY TREE
+level: moderate
 
 Problem statement
 Given a binary tree and an integer S, print all the pair of nodes whose sum equals S.
