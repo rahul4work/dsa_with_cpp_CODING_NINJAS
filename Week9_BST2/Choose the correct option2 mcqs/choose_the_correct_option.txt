@@ -1,0 +1,12 @@
+Problem statement
+What is the main advantage of using an AVL tree over a standard binary search tree (BST)?
+
+
+Options: Pick one correct answer from below
+• AVL trees are easier to implement.
+• AVL trees maintain a balanced structure, ensuring logarithmic height.
+• AVL trees require less memory.
+• AVL trees are faster for searching operations.
+
+
+Ans: AVL trees maintain a balanced structure, ensuring logarithmic height.
