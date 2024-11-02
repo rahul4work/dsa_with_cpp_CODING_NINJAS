@@ -1,5 +1,6 @@
 /*
 CONSTRUCT BST FROM PREORDER
+level: moderate
 
 Problem statement
 You are given a preorder traversal of a binary search tree. Your task is to find the postorder from the preorder.
