@@ -1,0 +1,11 @@
+Problem statement
+In real-time database systems, Binary Search Trees (BSTs) are often used to:
+
+Options: Pick one correct answer from below
+• Manage historical transaction logs
+• Optimize database backups
+• Quickly index and retrieve data
+• Ensure data consistency across multiple databases
+
+
+ans: Quickly index and retrieve data
