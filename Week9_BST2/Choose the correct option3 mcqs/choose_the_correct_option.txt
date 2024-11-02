@@ -1,0 +1,12 @@
+Problem statement
+What is the worst-case time complexity for searching an element in a balanced Red-Black Tree?
+
+
+Options: Pick one correct answer from below
+• 0(1)
+• 0(log N)
+• 0(N)
+• O(N log N)
+
+
+ans: 0(log N)
