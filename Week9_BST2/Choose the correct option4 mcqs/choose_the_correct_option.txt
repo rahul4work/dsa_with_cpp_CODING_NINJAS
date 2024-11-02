@@ -1,0 +1,12 @@
+Problem statement
+In a Red-Black Tree, which type of rotation/flip is used to fix a 
+violation where a node has two consecutive red child nodes?
+
+Options: Pick one correct answer from below
+• Left Rotation
+• Right Rotation
+• Left-Right Rotation
+• Color Flip
+
+
+ans: Color Flip
