@@ -1,0 +1,10 @@
+Problem statement
+In an AVL tree, what property is maintained to ensure balance?
+
+Options: Pick one correct answer from below
+• Minimum height
+• Maximum height
+• Height difference (balance factor) of at most 1
+• Height difference (balance factor) of at most 2
+
+Ans: Height difference (balance factor) of at most 1
