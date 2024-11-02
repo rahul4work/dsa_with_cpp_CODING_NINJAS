@@ -1,5 +1,6 @@
 /*
 LARGEST BST
+level: hard
 
 Problem statement
 Given a Binary tree, find the largest BST subtree. That is, you need to find the BST with
