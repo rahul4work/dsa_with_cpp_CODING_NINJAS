@@ -1,5 +1,6 @@
 /*
 CHECK COUSINS
+level: moderate
 
 Problem statement
 Given the binary Tree and two nodes say ‘p’ and ‘q’. Determine whether the two nodes are 
