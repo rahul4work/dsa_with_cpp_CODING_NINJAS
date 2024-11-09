@@ -1,0 +1,11 @@
+Problem statement
+When a hash collision occurs, which technique is commonly used to handle collisions in hashmaps?
+
+
+Options: Pick one correct answer from below
+• Linear Probing
+• Quadratic Probing
+• Separate Chaining
+• None of these
+
+ans: Separate Chaining
