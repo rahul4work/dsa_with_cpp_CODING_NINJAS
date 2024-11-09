@@ -1,0 +1,12 @@
+Problem statement
+Which of the following data structures are used to implement whole hashmaps 
+using separate chaining as collision handling technique?
+
+
+Options: One or more answers may be correct
+• Main Data structure: Array and Chaining Data Structure: Linked List
+• Main Data structure: Linked List and Chaining Data Structure: Array
+• Main Data structure: Array and Chaining Data Structure: Stack
+• Main Data structure: Queue and Chaining Data Structure: Array
+
+ans: Main Data structure: Array and Chaining Data Structure: Linked List
