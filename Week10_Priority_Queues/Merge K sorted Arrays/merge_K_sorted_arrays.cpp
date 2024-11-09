@@ -1,5 +1,6 @@
 /*
 MERGE K SORTED ARRAYS
+level: moderate
 
 Problem statement
 Given k no. of different size arrays, which are sorted individually (in ascending order). 
