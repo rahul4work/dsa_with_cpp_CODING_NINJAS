@@ -1,5 +1,6 @@
 /*
 PAIR SUM TO ZERO
+level: moderate
 
 Problem statement
 Given a random integer array A of size N. Find and print the count of pair of elements in the array which sum up to 0.
