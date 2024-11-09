@@ -1,0 +1,10 @@
+Problem statement
+In the implementation of HashMap, which operation is used as a compression function?
+
+Options: Pick one correct answer from below
+• % operator
+• Huffman Coding
+• Run Length Encoding
+• Deflate Compression
+
+ans: % operator
