@@ -1,5 +1,6 @@
 /*
 K SMALLEST ELEMENTS
+level: moderate
 
 Problem statement
 You are given with an integer k and an array of integers that contain numbers in random order. 
