@@ -1,0 +1,10 @@
+Problem statement
+What does the load factor indicate in the context of hashmaps?
+
+Options: Pick one correct answer from below
+• The size of the hashmap
+• The number of elements stored in the hashmap
+• The ratio of filled buckets to total buckets in the hashmap
+• The number of collisions that have occurred in the hashmap
+
+ans: The ratio of filled buckets to total buckets in the hashmap
