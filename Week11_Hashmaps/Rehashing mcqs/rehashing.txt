@@ -1,0 +1,12 @@
+Problem statement
+Consider a hashmap with an initial bucket size of 10. Currently, 
+7 elements have been inserted into the hashmap. If we insert an 8th element, 
+what will be the resulting count (number of elements) and bucket size?
+
+Options: Pick one correct answer from below
+• Count: 20, Bucket size : 20
+• Count: 8, Bucket size: 20
+• Count: 10, Bucket size: 10
+• Count: 8, Bucket size: 10
+
+ans: Count: 8, Bucket size: 20
