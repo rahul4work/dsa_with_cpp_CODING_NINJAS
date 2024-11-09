@@ -18,3 +18,4 @@ Options: Pick one correct answer from below
 • c
 • D
 
+ans: A
