@@ -1,0 +1,12 @@
+Problem statement
+In the context of DSA, specifically when working with hashmaps, what does the count function do?
+
+
+Options: Pick one correct answer from below
+• It returns the number of key-value pairs in the hashmap
+• It inserts a new key-value pair into the hashmap
+• It retrieves the value associated with a specified key
+• It checks if a key exists in the hashmap
+
+
+ans: It checks if a key exists in the hashmap
