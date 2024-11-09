@@ -1,0 +1,13 @@
+Problem statement
+Which of the following code snippets correctly initializes and 
+declares an iterator for the unordered_map b?
+
+
+Options: Pick one correct answer from below
+• unordered_map<int, int›iterator it = b.begin();
+• unordered_map<char, int›iterator it = it.begin()
+• unordered_map<int, char›iterator it (b.begin)
+• Iterator it = b.begin()
+
+
+ans: unordered_map<int, int›iterator it = b.begin();
