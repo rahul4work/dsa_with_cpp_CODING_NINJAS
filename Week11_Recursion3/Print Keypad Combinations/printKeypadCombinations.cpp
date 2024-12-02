@@ -1,5 +1,6 @@
 /*
 PRINT KEYPAD - String
+level: hard
 
 Problem statement
 Given an integer n, using phone keypad find out and print all the possible strings that can be made using digits of input n.
