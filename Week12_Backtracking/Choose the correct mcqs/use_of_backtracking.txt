@@ -1,5 +1,3 @@
-USE OF BACKTRACKING
-
 Problem statement
 In general, backtracking can be used to solve _______ .
 
