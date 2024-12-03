@@ -1,0 +1,12 @@
+USE OF BACKTRACKING
+
+Problem statement
+In general, backtracking can be used to solve _______ .
+
+Options: Pick one correct answer from below
+• Combinatorial problems
+• Graph coloring problems
+• Exhaustive search
+• Numerical problems
+
+ans: Combinatorial problems
