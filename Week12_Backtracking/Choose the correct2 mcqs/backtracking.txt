@@ -1,0 +1,13 @@
+Problem statement
+Why is recursion preferred in backtracking algorithms?
+
+
+Options: Pick one correct answer from below
+• It allows for the use of global variables.
+• It naturally fits the problem of exploring all possible solutions in a tree-like structure, allows breaking down problems into smaller subproblems,
+  narrows down the solution space, and makes the implementation easier.
+• It simplifies the code by avoiding the use of loops.
+• It prevents stack overflow errors.
+
+ans: It naturally fits the problem of exploring all possible solutions in a tree-like structure, allows breaking down problems into smaller subproblems,
+     narrows down the solution space, and makes the implementation easier.
