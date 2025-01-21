@@ -1,5 +1,6 @@
 /*
 MINIMUM COUNT
+level: medium
 
 Problem statement
 Given an integer N, find and return the count of minimum numbers required to represent N as a sum of squares.
