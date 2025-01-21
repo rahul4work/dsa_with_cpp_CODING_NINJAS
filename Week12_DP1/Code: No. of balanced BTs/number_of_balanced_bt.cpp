@@ -1,5 +1,6 @@
 /*
 NUMBER OF BALANCED BTs
+level: hard
 
 Problem statement
 Given an integer h, find the possible number of balanced binary trees of height h. 
